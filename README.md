@@ -1,2 +1,2 @@
 # rag-chatbot-amc
-Rag-Chatbot project
+Rag-Chatbot project made using Cursor, Groq, Gugging Face and ChromDb.
